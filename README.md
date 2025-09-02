@@ -1,7 +1,7 @@
 # ❤️ Double Heart Click Effect 
 
 This is a playful **Double Heart Click Effect** built with **HTML**, **CSS**, and **JavaScript**.  
-Double-clicking creates a fun, animated heart effect on the screen—perfect for adding some love to your UI! 💞
+Double-clicking creates a fun, animated heart effect on the screen—perfect for adding some love to your UI! ❣️
 
 ---
 
